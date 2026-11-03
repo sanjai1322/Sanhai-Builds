@@ -1,0 +1,172 @@
+{
+  "featured": [
+    "ccos",
+    "microduck",
+    "tesla"
+  ],
+  "reels": [
+    {
+      "id": "rawkit",
+      "title": "RawKit Fastlane",
+      "line": "Sponsored reel: one real app idea, checked start to verdict.",
+      "cat": "Clients",
+      "client": "RawKit",
+      "dur": "0:32"
+    },
+    {
+      "id": "tierlist",
+      "title": "I ranked every AI",
+      "line": "Nine AIs, S tier to C, with a free cheat sheet CTA.",
+      "cat": "Comparisons",
+      "dur": "0:51"
+    },
+    {
+      "id": "ccos",
+      "title": "Code Constellation OS",
+      "line": "Eight AI agents running a company, built as a 3D city.",
+      "cat": "Product films",
+      "dur": "0:59"
+    },
+    {
+      "id": "microduck",
+      "title": "NVIDIA's tiny robot duck",
+      "line": "Jensen's Microduck and sim to real, explained.",
+      "cat": "Explainers",
+      "dur": "0:57"
+    },
+    {
+      "id": "tesla",
+      "title": "Tesla Roadster 3D site",
+      "line": "A cinematic 3D website, built and shown in one reel.",
+      "cat": "Websites",
+      "dur": "1:00"
+    },
+    {
+      "id": "ccsaas",
+      "title": "Code Constellation",
+      "line": "A SaaS explainer style reel for my web studio.",
+      "cat": "Product films",
+      "dur": "0:50"
+    },
+    {
+      "id": "sidekick",
+      "title": "Sidekick AI early access",
+      "line": "Sponsored launch reel for Sidekick AI.",
+      "cat": "Clients",
+      "client": "Sidekick AI",
+      "dur": "0:42"
+    },
+    {
+      "id": "esummit",
+      "title": "E-Summit 2026",
+      "line": "Registration promo for E-Cell IIT Bombay.",
+      "cat": "Clients",
+      "client": "E-Cell IIT Bombay",
+      "dur": "0:51"
+    },
+    {
+      "id": "duet",
+      "title": "Claude Duet",
+      "line": "Launch reel for an agent that works across your apps.",
+      "cat": "Product films",
+      "dur": "0:41"
+    },
+    {
+      "id": "showdown",
+      "title": "Figma Make vs ChatGPT vs Claude",
+      "line": "One brief, three AI design tools, side by side.",
+      "cat": "Comparisons",
+      "dur": "0:59"
+    },
+    {
+      "id": "webpack",
+      "title": "These 3 websites",
+      "line": "A web pack showcase with GSAP skills and real builds.",
+      "cat": "Websites",
+      "dur": "0:59"
+    },
+    {
+      "id": "dots",
+      "title": "Dots by OpenAI",
+      "line": "Always-on agents on a cloud computer, broken down.",
+      "cat": "Explainers",
+      "dur": "0:44"
+    },
+    {
+      "id": "agentbattle",
+      "title": "OpenClaw vs Hermes vs Instinct",
+      "line": "Which personal AI agent is worth your time.",
+      "cat": "Comparisons",
+      "dur": "0:59"
+    },
+    {
+      "id": "worlds",
+      "title": "This went viral",
+      "line": "3D warehouse and airport operations sites.",
+      "cat": "Websites",
+      "dur": "0:50"
+    },
+    {
+      "id": "dotsmuse",
+      "title": "Dots vs Muse vs Grok Bot",
+      "line": "Three agents that look the same, tested.",
+      "cat": "Comparisons",
+      "dur": "0:50"
+    },
+    {
+      "id": "argon",
+      "title": "Gemini 4 Argon",
+      "line": "Playable games built in 3D with Google's new model.",
+      "cat": "Explainers",
+      "dur": "1:00"
+    },
+    {
+      "id": "startups",
+      "title": "Free Claude for startups",
+      "line": "The startup program and guide in one reel.",
+      "cat": "Explainers",
+      "dur": "0:43"
+    },
+    {
+      "id": "skill",
+      "title": "Record a skill",
+      "line": "Teach an AI agent a task by doing it once.",
+      "cat": "Explainers",
+      "dur": "0:55"
+    },
+    {
+      "id": "gemini",
+      "title": "Gemini went quiet",
+      "line": "Everyone else shipped. Then Google answered.",
+      "cat": "Explainers",
+      "dur": "1:07"
+    },
+    {
+      "id": "devday",
+      "title": "OpenAI DevDay 2026",
+      "line": "The whole keynote, wrapped up in a minute.",
+      "cat": "Explainers",
+      "dur": "0:55"
+    }
+  ],
+  "logos": [
+    {
+      "id": "orla",
+      "title": "ORLA",
+      "style": "Line construct",
+      "line": "A single line splits and draws the wordmark, then flips to black."
+    },
+    {
+      "id": "loop",
+      "title": "loop",
+      "style": "Shape morph",
+      "line": "A circle punches into a ring and grows the whole word."
+    },
+    {
+      "id": "snak",
+      "title": "snak!",
+      "style": "Bounce stack",
+      "line": "Letters drop, stack, tip over and land as the logo."
+    }
+  ]
+}
